@@ -1,3 +1,3 @@
 def @my_new_array
-  arr = []
+  @arr = []
 end
