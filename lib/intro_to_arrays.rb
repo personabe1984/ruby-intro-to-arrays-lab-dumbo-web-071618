@@ -17,3 +17,15 @@ end
 def last_element(arr)
   arr[-1]
 end
+
+def first_element_with_array_method(arr)
+  return arr.first
+end
+
+def last_element_with_array_method(arr)
+  arr.last
+end
+
+def length_of_array(arr)
+  arr.
+end
